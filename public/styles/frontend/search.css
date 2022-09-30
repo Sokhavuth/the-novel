@@ -8,7 +8,7 @@
 }
 
 .Search .main .sidebar{
-    background-color: var(--background-light);
+    background-color: var(--background);
     padding: 20px;
 }
 
@@ -18,7 +18,7 @@
     grid-gap: 10px;
     align-items: center;
     margin-bottom: 10px;
-    background-color: var(--background-light);
+    background-color: var(--background);
 }
 
 .Search ul li:last-child{
